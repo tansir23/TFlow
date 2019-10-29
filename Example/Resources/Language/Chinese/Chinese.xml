@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<string key="About">This is text on the English</string>
+	<string key="ChangeLanguage">Change Language</string>
+	<string key="TextWithTags">&lt;i&gt;With is RICH text&lt;/i&gt;</string>
+
+  <string key="Menu_UI">界面</string>
+  <string key="Menu_Scene">场景</string>
+  <string key="Menu_DataTable">数据表</string>
+  <string key="Menu_DataNode">数据节点</string>
+  <string key="Menu_Event">事件</string>
+  <string key="Menu_WebRequest">网络请求</string>
+  <string key="Menu_Language">语言</string>
+</data>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<string key="About">This is text on the English</string>
+	<string key="ChangeLanguage">Change Language</string>
+	<string key="TextWithTags">&lt;i&gt;With is RICH text&lt;/i&gt;</string>
+
+  <string key="Menu_UI">UI</string>
+  <string key="Menu_Scene">Scene</string>
+  <string key="Menu_DataTable">DataTable</string>
+  <string key="Menu_DataNode">DataNode</string>
+  <string key="Menu_Event">Event</string>
+  <string key="Menu_WebRequest">WebRequest</string>
+  <string key="Menu_Language">Language</string>
+</data>

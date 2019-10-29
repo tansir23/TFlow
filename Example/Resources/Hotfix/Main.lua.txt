@@ -1,0 +1,11 @@
+function Start()
+    print("lua start 001")
+end
+
+function Update()
+    -- print("lua update... 001")
+end
+
+function Close()
+    print("lua close 001")
+end
