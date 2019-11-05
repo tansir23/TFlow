@@ -6,7 +6,7 @@
 //-----------------------------------------------------------------------
 
 using GameFramework.Example.UI;
-using GameFramework.Taurus;
+using GameFramework.Sunny;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;

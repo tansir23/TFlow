@@ -7,13 +7,13 @@
 // <time> #2018年7月8日 14点37分# </time>
 //-----------------------------------------------------------------------
 
-using GameFramework.Taurus;
+using GameFramework.Sunny;
 using System.Collections;
 using System.Collections.Generic;
 
 namespace GameFramework.Example.State
 {
-	[GameState (GameStateType.Start)]
+	//[GameState (GameStateType.Start)]
 	public class LaunchGameState : GameState
 	{
 		#region 重写函数

@@ -7,7 +7,7 @@
 //-----------------------------------------------------------------------
 
 using GameFramework.Example.UI;
-using GameFramework.Taurus;
+using GameFramework.Sunny;
 using UnityEngine;
 
 namespace GameFramework.Example.State
